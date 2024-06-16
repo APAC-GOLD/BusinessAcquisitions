@@ -228,5 +228,6 @@ Now, we can use this business optimisation tool for future Business Acquisition 
 Yours Faithfully, 
 Amy Newkirk | Founder of APAC Gold Ltd. 
 
-![Newkirk's Oath for Business   Organisational Mana QR CODE](https://github.com/APAC-GOLD/BusinessAquisitions/assets/84517825/8b115510-70e1-4ef3-9b8a-168c2c83297e)
+![Newkirk's Oath for Business   Organisational Mana QR CODE](https://github.com/APAC-GOLD/BusinessAquisitions/assets/84517825/673973d1-e751-4748-9055-5913eebaea25)
+
 
